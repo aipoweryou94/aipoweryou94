@@ -1,5 +1,5 @@
 - 👋 Hi, I’m CEO @ aipoweryou.com
-- 👀 I’m interested in Data & AI 
+- 👀 I’m interested in Data, AI & Program Management/Strategy
 - 💞️ I’m looking to collaborate on Data & AI Strategy & Implementation Projects
 - 📫 How to reach me : emmanuel.bonnet@aipoweryou.com
 
