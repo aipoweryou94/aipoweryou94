@@ -1,6 +1,12 @@
-- 👋 Hi, I’m CEO @ aipoweryou.com
-- 👀 I’m interested in Data, AI & Program Management/Strategy
-- 💞️ I’m looking to collaborate on Data & AI Strategy & Implementation Projects
+- 👋 Hi, I’m Data / IA Expert and CEO @ aipoweryou.com
+  
+- 👀 I help Companies Data Offices , DSI for leading Data, AI & Program Management/Strategy/MOA/Build & Run
+  
+-  Too many AI projects remain at the prototype stage. My commitment: to transform strategic vision into sustainable industrial assets,
+  by managing (MOA) and implementing the initial roadmap through to MCO.
+
+-  I work across the entire Data & AI value chain to help transform your technical complexity into high value-added business impact.
+  
 - 📫 How to reach me : emmanuel.bonnet@aipoweryou.com
 
 
