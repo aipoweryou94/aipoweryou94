@@ -1,11 +1,14 @@
-- 👋 Hi, I’m Data / IA Expert and CEO @ aipoweryou.com
+- 👋 Hi, I’m Emmanuel Bonnet
   
-- 👀 I help Companies Data Offices , DSI for leading Data, AI & Program Management/Strategy/MOA/Build & Run
-  
--  Too many AI projects remain at the prototype stage. My commitment: to transform strategic vision into sustainable industrial assets,
-  by managing (MOA) and implementing the initial roadmap through to MCO.
+Founder & Senior Data/AI Consultant @ AiPowerYou — aipoweryou.com
 
--  I work across the entire Data & AI value chain to help transform your technical complexity into high value-added business impact.
+I help Data Offices, CIOs and business leaders transform Data & AI ambitions into robust, secure and scalable business capabilities.
+
+My work sits at the crossroads of strategy, program management, product delivery, AI governance, MLOps/LLMOps and operational excellence.
+
+Too many AI projects stop at the prototype stage.  
+
+My focus: turning strategic vision into industrialized, governed and sustainable Data & AI assets — from roadmap to Build, Run and long-term value.
   
 - 📫 How to reach me : emmanuel.bonnet@aipoweryou.com
 
