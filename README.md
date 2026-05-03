@@ -2,7 +2,7 @@
   
 Founder & Senior Data/AI Consultant @ AiPowerYou — aipoweryou.com
 
-I help Data Offices, CIOs and business leaders transform Data & AI ambitions into robust, secure and scalable business capabilities.
+I help Data Offices, AI & Data Science Teams, CIOs and business leaders transform Data & AI ambitions into robust, secure and scalable business capabilities.
 
 My work sits at the crossroads of strategy, program management, product delivery, AI governance, MLOps/LLMOps and operational excellence.
 
