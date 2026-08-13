@@ -65,6 +65,8 @@ Mon approche : comprendre le besoin, choisir les bonnes briques techniques, livr
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FaaS-FD5750?style=flat-square&logo=serverless&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 **Cloud, observabilité & opérations**
 
