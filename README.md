@@ -11,9 +11,6 @@
 <p align="center">
   <strong>Fondateur d’AiPowerYou — Consultant senior Data & IA</strong>
 </p>
-- 👋 Bonjour, je suis Emmanuel
-
-**Fondateur d’[AiPowerYou](https://aipoweryou.com) — Consultant senior Data & IA**
 
 J’aide les entreprises à faire sortir leurs projets Data et IA des slides et des POC pour en faire des produits qui fonctionnent réellement en production.
 
