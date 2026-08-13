@@ -1,14 +1,12 @@
-- 👋 Hi, I’m Emmanuel Bonnet
-  
-Founder & Senior Data/AI Consultant @ AiPowerYou — aipoweryou.com
+- 👋 Bonjour, je suis Emmanuel
 
-I help Data Offices, AI & Data Science Teams, CIOs and business leaders transform Data & AI ambitions into robust, secure and scalable business capabilities.
+**Fondateur d’[AiPowerYou](https://aipoweryou.com) — Consultant senior Data & IA**
 
-My work sits at the crossroads of strategy, program management, product delivery, AI governance, MLOps/LLMOps and operational excellence.
+J’aide les entreprises à faire sortir leurs projets Data et IA des slides et des POC pour en faire des produits qui fonctionnent réellement en production.
 
-Too many AI projects stop at the prototype stage.  
+Concrètement, je fais le lien entre les besoins métiers, la Data Science, l’Engineering et l’IT : cadrage des usages, architecture, delivery, GenAI, RAG, agents IA, MLOps/LLMOps, mise en production, observabilité et Run.
 
-My focus: turning strategic vision into industrialized, governed and sustainable Data & AI assets — from roadmap to Build, Run and long-term value.
+Mon approche : comprendre le besoin, choisir les bonnes briques techniques, livrer progressivement et construire des solutions fiables, sécurisées et utiles dans la durée.
   
 - 📫 How to reach me : emmanuel.bonnet@aipoweryou.com
 
