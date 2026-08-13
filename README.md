@@ -6,17 +6,18 @@
   />
 </p>
 
-<h1 align="center">Bonjour, je suis Emmanuel Bonnet 👋</h1>
+<h1 align="center">Bonjour, je suis Emmanuel 👋</h1>
 
 <p align="center">
   <strong>Fondateur d’AiPowerYou — Consultant senior Data & IA</strong>
 </p>
 
-J’aide les entreprises à faire sortir leurs projets Data et IA des slides et des POC pour en faire des produits qui fonctionnent réellement en production.
+AiPowerYou transforme les ambitions Data et IA des entreprises en produits fiables, adoptés et performants en production — bien au-delà des slides et des POC.
 
-Concrètement, je fais le lien entre les besoins métiers, la Data Science, l’Engineering et l’IT : cadrage des usages, architecture, delivery, GenAI, RAG, agents IA, MLOps/LLMOps, mise en production, observabilité et Run.
+À l’interface des métiers, de la Data Science, de l’Engineering et de l’IT, AiPowerYou pilote cette transformation de bout en bout : cadrage des usages, architecture, delivery, GenAI, RAG, agents IA, MLOps/LLMOps, mise en production, observabilité et Run.
 
-Mon approche : comprendre le besoin, choisir les bonnes briques techniques, livrer progressivement et construire des solutions fiables, sécurisées et utiles dans la durée.
+Notre approche est résolument pragmatique : partir du besoin réel, sélectionner les briques technologiques pertinentes, livrer progressivement et construire des solutions sécurisées, industrialisables et durablement utiles.
+
   
 - 📫 How to reach me : emmanuel.bonnet@aipoweryou.com
 ## 🧰 Écosystème Data, IA & Delivery — du cadrage au Run
