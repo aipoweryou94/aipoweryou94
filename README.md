@@ -35,6 +35,7 @@ Mon approche : comprendre le besoin, choisir les bonnes briques techniques, livr
 ![AI Risk Classification](https://img.shields.io/badge/AI%20Risk%20Classification-A93226?style=flat-square)
 
 **Data & Development**
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
