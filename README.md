@@ -37,7 +37,6 @@ Mon approche : comprendre le besoin, choisir les bonnes briques techniques, livr
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![PyMC](https://img.shields.io/badge/PyMC-Bayesian%20Modeling-2A6F97?style=flat-square)
-![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-3B82F6?style=flat-square)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
@@ -53,7 +52,6 @@ Mon approche : comprendre le besoin, choisir les bonnes briques techniques, livr
 **Cloud, observabilité & opérations**
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
@@ -61,7 +59,6 @@ Mon approche : comprendre le besoin, choisir les bonnes briques techniques, livr
 **Architecture, gouvernance & gestion des services**
 
 ![TOGAF](https://img.shields.io/badge/TOGAF-34495E?style=flat-square)
-![ArchiMate](https://img.shields.io/badge/ArchiMate-5D6D7E?style=flat-square)
 ![ITIL 4](https://img.shields.io/badge/ITIL%204-6C3483?style=flat-square)
 ![COBIT](https://img.shields.io/badge/COBIT-2874A6?style=flat-square)
 ![CMDB](https://img.shields.io/badge/CMDB-117864?style=flat-square)
@@ -72,7 +69,6 @@ Mon approche : comprendre le besoin, choisir les bonnes briques techniques, livr
 ![NIST CSF](https://img.shields.io/badge/NIST%20CSF-1F618D?style=flat-square)
 ![ISO 27001](https://img.shields.io/badge/ISO%2FIEC%2027001-2C3E50?style=flat-square)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Zero Trust](https://img.shields.io/badge/Zero%20Trust-922B21?style=flat-square)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-943126?style=flat-square)
 
 **Product, collaboration & documentation**
@@ -80,7 +76,6 @@ Mon approche : comprendre le besoin, choisir les bonnes briques techniques, livr
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Documentastik](https://img.shields.io/badge/Documentastik-34495E?style=flat-square)
 <!---
 aipoweryou94/aipoweryou94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
