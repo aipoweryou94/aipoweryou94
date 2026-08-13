@@ -12,7 +12,7 @@
   <strong>Fondateur d’AiPowerYou — Consultant senior Data & IA</strong>
 </p>
 
-AiPowerYou transforme les ambitions Data et IA des entreprises en produits fiables, adoptés et performants en production — bien au-delà des slides et des POC.
+AiPowerYou transforme les ambitions Data et IA des entreprises en produits fiables, adoptés et performants en production.
 
 À l’interface des métiers, de la Data Science, de l’Engineering et de l’IT, AiPowerYou pilote cette transformation de bout en bout : cadrage des usages, architecture, delivery, GenAI, RAG, agents IA, MLOps/LLMOps, mise en production, observabilité et Run.
 
