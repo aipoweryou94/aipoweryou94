@@ -1,3 +1,16 @@
+<p align="center">
+  <img
+    src="./assets/aipoweryou-tech-banner.gif"
+    alt="AiPowerYou — Data & AI from POC to Production"
+    width="100%"
+  />
+</p>
+
+<h1 align="center">Bonjour, je suis Emmanuel Bonnet 👋</h1>
+
+<p align="center">
+  <strong>Fondateur d’AiPowerYou — Consultant senior Data & IA</strong>
+</p>
 - 👋 Bonjour, je suis Emmanuel
 
 **Fondateur d’[AiPowerYou](https://aipoweryou.com) — Consultant senior Data & IA**
