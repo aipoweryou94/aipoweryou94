@@ -21,6 +21,15 @@ Mon approche : comprendre le besoin, choisir les bonnes briques techniques, livr
 - 📫 How to reach me : emmanuel.bonnet@aipoweryou.com
 ## 🧰 Écosystème Data, IA & Delivery — du cadrage au Run
 
+**Product, collaboration & documentation**
+
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat-square)
+![SAFe](https://img.shields.io/badge/SAFe-5C2D91?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
+![Documentastik](https://img.shields.io/badge/Documentastik-34495E?style=flat-square)
+
 **Data & Development**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -41,6 +50,14 @@ Mon approche : comprendre le besoin, choisir les bonnes briques techniques, livr
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-3B82F6?style=flat-square)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
+**Architecture, gouvernance & gestion des services**
+
+![TOGAF](https://img.shields.io/badge/TOGAF-34495E?style=flat-square)
+![ITIL 4](https://img.shields.io/badge/ITIL%204-6C3483?style=flat-square)
+![COBIT](https://img.shields.io/badge/COBIT-2874A6?style=flat-square)
+![CMDB](https://img.shields.io/badge/CMDB-117864?style=flat-square)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white)
+
 **APIs, plateformes & industrialisation**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -56,14 +73,6 @@ Mon approche : comprendre le besoin, choisir les bonnes briques techniques, livr
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
 
-**Architecture, gouvernance & gestion des services**
-
-![TOGAF](https://img.shields.io/badge/TOGAF-34495E?style=flat-square)
-![ITIL 4](https://img.shields.io/badge/ITIL%204-6C3483?style=flat-square)
-![COBIT](https://img.shields.io/badge/COBIT-2874A6?style=flat-square)
-![CMDB](https://img.shields.io/badge/CMDB-117864?style=flat-square)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white)
-
 **Cybersécurité & maîtrise des risques**
 
 ![NIST CSF](https://img.shields.io/badge/NIST%20CSF-1F618D?style=flat-square)
@@ -71,12 +80,7 @@ Mon approche : comprendre le besoin, choisir les bonnes briques techniques, livr
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-943126?style=flat-square)
 
-**Product, collaboration & documentation**
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
-![Documentastik](https://img.shields.io/badge/Documentastik-34495E?style=flat-square)
 <!---
 aipoweryou94/aipoweryou94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
