@@ -30,6 +30,15 @@ Mon approche : comprendre le besoin, choisir les bonnes briques techniques, livr
 ![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
 ![Documentastik](https://img.shields.io/badge/Documentastik-34495E?style=flat-square)
 
+**Gouvernance IA, conformité & IA responsable**
+
+![EU AI Act](https://img.shields.io/badge/EU%20AI%20Act-003399?style=flat-square&logo=europeanunion&logoColor=white)
+![ISO 42001](https://img.shields.io/badge/ISO%2FIEC%2042001-2C3E50?style=flat-square)
+![Responsible AI](https://img.shields.io/badge/Responsible%20AI-6C3483?style=flat-square)
+![AI Risk Classification](https://img.shields.io/badge/AI%20Risk%20Classification-A93226?style=flat-square)
+![Model Governance](https://img.shields.io/badge/Model%20Governance-117864?style=flat-square)
+
+
 **Data & Development**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
