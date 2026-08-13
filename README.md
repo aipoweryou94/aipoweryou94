@@ -29,7 +29,7 @@ Mon approche : comprendre le besoin, choisir les bonnes briques techniques, livr
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 
-**IA générative & Machine Learning**
+**Data Science & IA générative**
 
 ![GenAI](https://img.shields.io/badge/GenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6C3483?style=flat-square)
@@ -37,6 +37,7 @@ Mon approche : comprendre le besoin, choisir les bonnes briques techniques, livr
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![PyMC](https://img.shields.io/badge/PyMC-Bayesian%20Modeling-2A6F97?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-3B82F6?style=flat-square)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
@@ -47,7 +48,6 @@ Mon approche : comprendre le besoin, choisir les bonnes briques techniques, livr
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 **Cloud, observabilité & opérations**
 
